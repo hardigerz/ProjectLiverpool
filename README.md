@@ -1,8 +1,8 @@
-# Khulafa Rasyidin
-Aplikasi Mobel Mengenal Khulafa Rasyidin Mobile Android
-# Dicoding
-Tugas Submission Akhir Belajar Membuat Aplikasi Android untuk Pemula 
+Project Liverpool
+Aplikasi Mobile mengenai Pemain-Pemain Liverpool untuk menerapkan HOme detail page using Recyler view
 
-![alt text](https://raw.githubusercontent.com/muhrizky/KhulafaRasyidin/master/app/src/main/res/drawable/ss1.png)
+![alt text](https://github.com/hardigerz/ProjectLiverpool/blob/master/Screenshot/device-2018-08-22-064847.png)
 
-![alt text](https://raw.githubusercontent.com/muhrizky/KhulafaRasyidin/master/app/src/main/res/drawable/ss2.png)
+![alt text](https://github.com/hardigerz/ProjectLiverpool/blob/master/Screenshot/device-2018-08-22-064912.png)
+
+![alt text](https://github.com/hardigerz/ProjectLiverpool/blob/master/Screenshot/device-2018-08-22-064927.png)
